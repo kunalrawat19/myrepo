@@ -3,7 +3,10 @@ using namespace std;
 void quicksort(){
 //
 }
+<<<<<<< HEAD
 void bubblesort
+=======
+>>>>>>> quicksort
 int main(){
  cout<<"hello world";
  cout<<"kunal rawat";
